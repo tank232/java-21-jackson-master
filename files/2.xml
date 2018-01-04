@@ -1,0 +1,6 @@
+<Car>
+    <brand>Toyota</brand>
+    <model>Corolla</model>
+    <year>2014</year>
+    <kilometersRun>200</kilometersRun>
+</Car>
